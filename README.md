@@ -1,10 +1,9 @@
-# 待办列表
+# [NPT]防爆（NO Primed TNT）
 
-**如果有好的想法，您可以通过 Pull requests 更新此文件（亦可提交 issues）**
-<!-- 如果想提交 Pull requests 请遵循已有格式 -->
-- 【[CDFZ]重蹈覆辙（Re-play）】：通过盔甲架记录玩家轨迹，下一玩家通过tp重复上一玩家轨迹
-- 【[BRB]贿赂（bribe）】：给生物仍对应物品，则使其不与玩家敌对
-- 【[AUT]自闭症（autism）】：通过DFL包的fill_outline函数包围玩家，玩家不动时，不生成玻璃
-- 【[NPT]防爆（NO Primed TNT）】：在所有被激活的TNT处放置TNT，并杀死被激活的TNT
-- 【】：通过放置光源方块实现动态光源，使用盔甲架记录并移除临时的光源方块
-- 【[FW]人间地狱（Fire Water）】：主世界的水变岩浆，地狱的岩浆变水
+此数据包让所有 TNT 无法爆炸。
+此数据包仅能防止 TNT 爆炸。
+此数据包也可以让指令生成的 TNT 实体无法爆炸。
+
+此数据包不会修改任何游戏内容，所以其可以被安全地移除。
+
+如果遇到任何问题，[点击这里](https://github.com/WhiteElephant-abc/NO-Primed-TNT/issues/choose) 反馈。
